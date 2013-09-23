@@ -1,5 +1,5 @@
-# Simple server to ping/pong messages using wscat
-#
+/* Simple server to ping/pong messages using wscat */
+
 var host = process.env.OPENSHIFT_NODEJS_IP;
 var port = process.env.OPENSHIFT_NODEJS_PORT || 8080;
 
