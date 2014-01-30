@@ -5,7 +5,7 @@ ping/pong server for testing websockets in OpenShift
 
 Creating application on OpenShift:
 
-    rhc create-app pingpong nodejs-0.10 --from-code https://github.com/jwhonce/websocket-test.git
+    rhc create-app pingpong nodejs-0.10 --from-code https://github.com/mrunalp/websocket-test.git
 
 Testing application:
 
